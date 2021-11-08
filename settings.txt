@@ -1,0 +1,3 @@
+images_folder = images_to_click
+sleep = 3
+
